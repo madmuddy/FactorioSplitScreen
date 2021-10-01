@@ -1,0 +1,311 @@
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: The remote name could not be resolved: 'api.github.com'
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at UniversalSplitScreen.Core.UpdateChecker.<IsThereAnUpdate>d__2.MoveNext()
+Set controller index = 0
+Loaded Borderlands2.json : Borderlands2
+Loaded Dont Starve Together.json : Dont Starve Together
+Loaded Factorio.json : Factorio
+Loaded GoldSrc Engine.json : GoldSrc Engine
+Loaded Minecraft 1.14.3.json : Minecraft 1.14.3
+Loaded Minecraft Alternate.json : Minecraft Alternate
+Loaded NuclearThrone.json : NuclearThrone
+Loaded Prison Architect.json : Prison Architect
+Loaded Rift.json : Rift
+Loaded Source Engine.json : Source Engine
+Loaded Starbound.json : Starbound
+Loaded Stardew Valley.json : Stardew Valley
+Loaded Terraria.json : Terraria
+Registering EVENT_SYSTEM_FOREGROUND hook
+Intercept keyboard and mouse activated
+Attempting to RegisterRawInputDevices for window handle 1180464
+Succeeded RegisterRawInputDevices Keyboard = True
+Succeeded RegisterRawInputDevices Mouse = True
+Activated hWnd 66738, self = False, Title = 
+Initialising InputDisabler
+Initialised InputDisabler
+Activated hWnd 66260, self = False, Title = Universal Split Screen 1.2.0
+Set controller index = 0
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 66576, self = False, Title = Factorio 1.1.39
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 66576, self = False, Title = Factorio 1.1.39
+Activated hWnd 65774, self = False, Title = 
+Activated hWnd 263126, self = False, Title = Factorio 1.1.39
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 263126, self = False, Title = Factorio 1.1.39
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 263126, self = False, Title = Factorio 1.1.39
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 66576, self = False, Title = Factorio 1.1.39
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 66576, self = False, Title = Factorio 1.1.39
+Activated hWnd 263126, self = False, Title = Factorio 1.1.39
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 263126, self = False, Title = Factorio 1.1.39
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 66576, self = False, Title = Factorio 1.1.39
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Set mouse, handle = 65588
+Set keyboard, pointer = 65590
+Activated hWnd 263126, self = False, Title = Factorio 1.1.39
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Set keyboard, pointer = 2163555
+Set mouse, handle = 2557047
+hWnd=66576, mouse=65588, kb=65590
+Cursor window width,height = 1300,788
+ - thread id=0x3ec, _hWnd=0x66576, window text=Factorio 1.1.39
+ - thread id=0x3ec, _hWnd=0x66586, window text=MSCTFIME UI
+ - thread id=0x3ec, _hWnd=0x66578, window text=Default IME
+ - thread id=0x1ca8, _hWnd=0x66588, window text=GDI+ Window (factorio.exe)
+ - thread id=0x1ca8, _hWnd=0x66590, window text=Default IME
+Starting read pipe USS7ZYjpGYDY0ciX5kSh53wa6HYlmo
+Created read pipe USS7ZYjpGYDY0ciX5kSh53wa6HYlmo
+Activated hWnd 131828, self = False, Title = 
+InjectorCPP.Inject result = 0x0. is64=True, needPipe=True
+hWnd=263126, mouse=2557047, kb=2163555
+Cursor window width,height = 1300,788
+ - thread id=0x8f8, _hWnd=0x263126, window text=Factorio 1.1.39
+ - thread id=0x8f8, _hWnd=0x721854, window text=MSCTFIME UI
+ - thread id=0x8f8, _hWnd=0x852458, window text=Default IME
+ - thread id=0x644, _hWnd=0x655988, window text=GDI+ Window (factorio.exe)
+ - thread id=0x644, _hWnd=0x656344, window text=Default IME
+Starting read pipe USSmxDt0R65tsGssNwxZB6HsdD1sJt
+Created read pipe USSmxDt0R65tsGssNwxZB6HsdD1sJt
+Client connected to (read) pipe USS7ZYjpGYDY0ciX5kSh53wa6HYlmo
+Activated hWnd 197476, self = False, Title = 
+InjectorCPP.Inject result = 0x0. is64=True, needPipe=True
+Client connected to (read) pipe USSmxDt0R65tsGssNwxZB6HsdD1sJt
+End key pressed
+Closing read pipe USS7ZYjpGYDY0ciX5kSh53wa6HYlmo and write pipe 
+Closing read pipe USSmxDt0R65tsGssNwxZB6HsdD1sJt and write pipe 
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 131220, self = False, Title = 
+Activated hWnd 328362, self = False, Title = Network Connections
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 131220, self = False, Title = 
+Activated hWnd 525408, self = False, Title = Network Connections
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 263126, self = False, Title = Factorio 1.1.39
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+hWnd=66576, mouse=65588, kb=65590
+Cursor window width,height = 1300,788
+ - thread id=0x3ec, _hWnd=0x66576, window text=Factorio 1.1.39
+ - thread id=0x3ec, _hWnd=0x66586, window text=MSCTFIME UI
+ - thread id=0x3ec, _hWnd=0x66578, window text=Default IME
+ - thread id=0x1ca8, _hWnd=0x66588, window text=GDI+ Window (factorio.exe)
+ - thread id=0x1ca8, _hWnd=0x66590, window text=Default IME
+Starting read pipe USSrzVqqPIPIRYBlqA1vH7LQtxeM8u
+Created read pipe USSrzVqqPIPIRYBlqA1vH7LQtxeM8u
+Activated hWnd 263462, self = False, Title = 
+InjectorCPP.Inject result = 0x0. is64=True, needPipe=True
+hWnd=263126, mouse=2557047, kb=2163555
+Cursor window width,height = 1300,788
+ - thread id=0x8f8, _hWnd=0x263126, window text=Factorio 1.1.39
+ - thread id=0x8f8, _hWnd=0x721854, window text=MSCTFIME UI
+ - thread id=0x8f8, _hWnd=0x852458, window text=Default IME
+ - thread id=0x644, _hWnd=0x655988, window text=GDI+ Window (factorio.exe)
+ - thread id=0x644, _hWnd=0x656344, window text=Default IME
+Starting read pipe USSIkWz2yBHoU9lNeHs2vQ27SHabSb
+Created read pipe USSIkWz2yBHoU9lNeHs2vQ27SHabSb
+Activated hWnd 655998, self = False, Title = 
+InjectorCPP.Inject result = 0x0. is64=True, needPipe=True
+Client connected to (read) pipe USSrzVqqPIPIRYBlqA1vH7LQtxeM8u
+Client connected to (read) pipe USSIkWz2yBHoU9lNeHs2vQ27SHabSb
+End key pressed
+Closing read pipe USSrzVqqPIPIRYBlqA1vH7LQtxeM8u and write pipe 
+Closing read pipe USSIkWz2yBHoU9lNeHs2vQ27SHabSb and write pipe 
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+hWnd=66576, mouse=65588, kb=65590
+Cursor window width,height = 1300,788
+ - thread id=0x3ec, _hWnd=0x66576, window text=Factorio 1.1.39
+ - thread id=0x3ec, _hWnd=0x66586, window text=MSCTFIME UI
+ - thread id=0x3ec, _hWnd=0x66578, window text=Default IME
+ - thread id=0x1ca8, _hWnd=0x66588, window text=GDI+ Window (factorio.exe)
+ - thread id=0x1ca8, _hWnd=0x66590, window text=Default IME
+Starting read pipe USS9SEOrqTbwWLKQilRLt8Dz3sS0fo
+Created read pipe USS9SEOrqTbwWLKQilRLt8Dz3sS0fo
+Activated hWnd 262954, self = False, Title = 
+InjectorCPP.Inject result = 0x0. is64=True, needPipe=True
+hWnd=263126, mouse=2557047, kb=2163555
+Cursor window width,height = 1300,788
+ - thread id=0x8f8, _hWnd=0x263126, window text=Factorio 1.1.39
+ - thread id=0x8f8, _hWnd=0x721854, window text=MSCTFIME UI
+ - thread id=0x8f8, _hWnd=0x852458, window text=Default IME
+ - thread id=0x644, _hWnd=0x655988, window text=GDI+ Window (factorio.exe)
+ - thread id=0x644, _hWnd=0x656344, window text=Default IME
+Starting read pipe USS2ncuq4TEG7kg1dQFxDrK2dyl0N0
+Created read pipe USS2ncuq4TEG7kg1dQFxDrK2dyl0N0
+Activated hWnd 328998, self = False, Title = 
+Client connected to (read) pipe USS9SEOrqTbwWLKQilRLt8Dz3sS0fo
+InjectorCPP.Inject result = 0x0. is64=True, needPipe=True
+Client connected to (read) pipe USS2ncuq4TEG7kg1dQFxDrK2dyl0N0
+End key pressed
+Closing read pipe USS9SEOrqTbwWLKQilRLt8Dz3sS0fo and write pipe 
+Closing read pipe USS2ncuq4TEG7kg1dQFxDrK2dyl0N0 and write pipe 
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+hWnd=66576, mouse=65588, kb=65590
+Cursor window width,height = 1300,788
+ - thread id=0x3ec, _hWnd=0x66576, window text=Factorio 1.1.39
+ - thread id=0x3ec, _hWnd=0x66586, window text=MSCTFIME UI
+ - thread id=0x3ec, _hWnd=0x66578, window text=Default IME
+ - thread id=0x1ca8, _hWnd=0x66588, window text=GDI+ Window (factorio.exe)
+ - thread id=0x1ca8, _hWnd=0x66590, window text=Default IME
+Starting read pipe USSI8LDVR1n3ASMIcESZG9X6YKutSy
+Created read pipe USSI8LDVR1n3ASMIcESZG9X6YKutSy
+Activated hWnd 394302, self = False, Title = 
+InjectorCPP.Inject result = 0x0. is64=True, needPipe=True
+hWnd=263126, mouse=2557047, kb=2163555
+Cursor window width,height = 1300,788
+ - thread id=0x8f8, _hWnd=0x263126, window text=Factorio 1.1.39
+ - thread id=0x8f8, _hWnd=0x721854, window text=MSCTFIME UI
+ - thread id=0x8f8, _hWnd=0x852458, window text=Default IME
+ - thread id=0x644, _hWnd=0x655988, window text=GDI+ Window (factorio.exe)
+ - thread id=0x644, _hWnd=0x656344, window text=Default IME
+Starting read pipe USS6Ee0SzFPfT601DsiNcGjSbtRHtS
+Created read pipe USS6Ee0SzFPfT601DsiNcGjSbtRHtS
+Activated hWnd 393986, self = False, Title = 
+InjectorCPP.Inject result = 0x0. is64=True, needPipe=True
+Client connected to (read) pipe USSI8LDVR1n3ASMIcESZG9X6YKutSy
+Client connected to (read) pipe USS6Ee0SzFPfT601DsiNcGjSbtRHtS
+End key pressed
+Closing read pipe USSI8LDVR1n3ASMIcESZG9X6YKutSy and write pipe 
+Closing read pipe USS6Ee0SzFPfT601DsiNcGjSbtRHtS and write pipe 
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 131220, self = False, Title = 
+Activated hWnd 459844, self = False, Title = Network Connections
+Activated hWnd 131220, self = False, Title = 
+Activated hWnd 918822, self = False, Title = Network Connections
+Activated hWnd 131220, self = False, Title = 
+Activated hWnd 1180286, self = False, Title = Network Connections
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+hWnd=66576, mouse=65588, kb=65590
+Cursor window width,height = 1300,788
+ - thread id=0x3ec, _hWnd=0x66576, window text=Factorio 1.1.39
+ - thread id=0x3ec, _hWnd=0x66586, window text=MSCTFIME UI
+ - thread id=0x3ec, _hWnd=0x66578, window text=Default IME
+ - thread id=0x1ca8, _hWnd=0x66588, window text=GDI+ Window (factorio.exe)
+ - thread id=0x1ca8, _hWnd=0x66590, window text=Default IME
+Starting read pipe USSlo2CDoXc2cb5DRpGe3QsQIqV0eE
+Created read pipe USSlo2CDoXc2cb5DRpGe3QsQIqV0eE
+Activated hWnd 525376, self = False, Title = 
+InjectorCPP.Inject result = 0x0. is64=True, needPipe=True
+hWnd=263126, mouse=2557047, kb=2163555
+Cursor window width,height = 1300,788
+ - thread id=0x8f8, _hWnd=0x263126, window text=Factorio 1.1.39
+ - thread id=0x8f8, _hWnd=0x721854, window text=MSCTFIME UI
+ - thread id=0x8f8, _hWnd=0x852458, window text=Default IME
+ - thread id=0x644, _hWnd=0x655988, window text=GDI+ Window (factorio.exe)
+ - thread id=0x644, _hWnd=0x656344, window text=Default IME
+Starting read pipe USS2eRcbJKTYvqL7q0iDQMaBnjrVCc
+Created read pipe USS2eRcbJKTYvqL7q0iDQMaBnjrVCc
+Activated hWnd 590634, self = False, Title = 
+InjectorCPP.Inject result = 0x0. is64=True, needPipe=True
+Client connected to (read) pipe USSlo2CDoXc2cb5DRpGe3QsQIqV0eE
+Client connected to (read) pipe USS2eRcbJKTYvqL7q0iDQMaBnjrVCc
+End key pressed
+Closing read pipe USSlo2CDoXc2cb5DRpGe3QsQIqV0eE and write pipe 
+Closing read pipe USS2eRcbJKTYvqL7q0iDQMaBnjrVCc and write pipe 
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 131220, self = False, Title = 
+Activated hWnd 721666, self = False, Title = Network Connections
+Activated hWnd 66576, self = False, Title = Factorio 1.1.39
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 66576, self = False, Title = Factorio 1.1.39
+Activated hWnd 65774, self = False, Title = 
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 66576, self = False, Title = Factorio 1.1.39
+Activated hWnd 131220, self = False, Title = 
+Activated hWnd 983722, self = False, Title = Network Connections
+Activated hWnd 131220, self = False, Title = 
+Activated hWnd 65726, self = False, Title = 
+Activated hWnd 131220, self = False, Title = 
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 131220, self = False, Title = 
+Activated hWnd 1311490, self = False, Title = Network Connections
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+hWnd=66576, mouse=65588, kb=65590
+Cursor window width,height = 1300,788
+ - thread id=0x3ec, _hWnd=0x66576, window text=Factorio 1.1.39
+ - thread id=0x3ec, _hWnd=0x66586, window text=MSCTFIME UI
+ - thread id=0x3ec, _hWnd=0x66578, window text=Default IME
+ - thread id=0x1ca8, _hWnd=0x66588, window text=GDI+ Window (factorio.exe)
+ - thread id=0x1ca8, _hWnd=0x66590, window text=Default IME
+Starting read pipe USSdDZe4pzh6xBIagZlvpJXmnh23MI
+Created read pipe USSdDZe4pzh6xBIagZlvpJXmnh23MI
+Activated hWnd 1049330, self = False, Title = 
+InjectorCPP.Inject result = 0x0. is64=True, needPipe=True
+hWnd=263126, mouse=2557047, kb=2163555
+Cursor window width,height = 1300,788
+ - thread id=0x8f8, _hWnd=0x263126, window text=Factorio 1.1.39
+ - thread id=0x8f8, _hWnd=0x721854, window text=MSCTFIME UI
+ - thread id=0x8f8, _hWnd=0x852458, window text=Default IME
+ - thread id=0x644, _hWnd=0x655988, window text=GDI+ Window (factorio.exe)
+ - thread id=0x644, _hWnd=0x656344, window text=Default IME
+Starting read pipe USSMBg1kE25ns5ClgIhW0RoKjnHxmd
+Created read pipe USSMBg1kE25ns5ClgIhW0RoKjnHxmd
+Activated hWnd 1377026, self = False, Title = 
+InjectorCPP.Inject result = 0x0. is64=True, needPipe=True
+Client connected to (read) pipe USSdDZe4pzh6xBIagZlvpJXmnh23MI
+Client connected to (read) pipe USSMBg1kE25ns5ClgIhW0RoKjnHxmd
+End key pressed
+Closing read pipe USSdDZe4pzh6xBIagZlvpJXmnh23MI and write pipe 
+Closing read pipe USSMBg1kE25ns5ClgIhW0RoKjnHxmd and write pipe 
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+hWnd=66576, mouse=65588, kb=65590
+Cursor window width,height = 1300,788
+ - thread id=0x3ec, _hWnd=0x66576, window text=Factorio 1.1.39
+ - thread id=0x3ec, _hWnd=0x66586, window text=MSCTFIME UI
+ - thread id=0x3ec, _hWnd=0x66578, window text=Default IME
+ - thread id=0x1ca8, _hWnd=0x66588, window text=GDI+ Window (factorio.exe)
+ - thread id=0x1ca8, _hWnd=0x66590, window text=Default IME
+Starting read pipe USSQNLm7AZCN5ixUCxGZthOwVk0Zec
+Created read pipe USSQNLm7AZCN5ixUCxGZthOwVk0Zec
+Activated hWnd 1180402, self = False, Title = 
+InjectorCPP.Inject result = 0x0. is64=True, needPipe=True
+hWnd=263126, mouse=2557047, kb=2163555
+Cursor window width,height = 1300,788
+ - thread id=0x8f8, _hWnd=0x263126, window text=Factorio 1.1.39
+ - thread id=0x8f8, _hWnd=0x721854, window text=MSCTFIME UI
+ - thread id=0x8f8, _hWnd=0x852458, window text=Default IME
+ - thread id=0x644, _hWnd=0x655988, window text=GDI+ Window (factorio.exe)
+ - thread id=0x644, _hWnd=0x656344, window text=Default IME
+Starting read pipe USSFmn2ZDh7Vl1jy4Li9Jp8ru7HfJz
+Created read pipe USSFmn2ZDh7Vl1jy4Li9Jp8ru7HfJz
+Activated hWnd 131846, self = False, Title = 
+InjectorCPP.Inject result = 0x0. is64=True, needPipe=True
+Client connected to (read) pipe USSQNLm7AZCN5ixUCxGZthOwVk0Zec
+Client connected to (read) pipe USSFmn2ZDh7Vl1jy4Li9Jp8ru7HfJz
+End key pressed
+Closing read pipe USSQNLm7AZCN5ixUCxGZthOwVk0Zec and write pipe 
+Closing read pipe USSFmn2ZDh7Vl1jy4Li9Jp8ru7HfJz and write pipe 
+Activated hWnd 1180464, self = True, Title = Universal Split Screen
+hWnd=66576, mouse=65588, kb=65590
+Cursor window width,height = 1300,788
+ - thread id=0x3ec, _hWnd=0x66576, window text=Factorio 1.1.39
+ - thread id=0x3ec, _hWnd=0x66586, window text=MSCTFIME UI
+ - thread id=0x3ec, _hWnd=0x66578, window text=Default IME
+ - thread id=0x1ca8, _hWnd=0x66588, window text=GDI+ Window (factorio.exe)
+ - thread id=0x1ca8, _hWnd=0x66590, window text=Default IME
+Starting read pipe USSja3xYBxXOD7fEHsUQ6VOh8seGB2
+Created read pipe USSja3xYBxXOD7fEHsUQ6VOh8seGB2
+Activated hWnd 197392, self = False, Title = 
+InjectorCPP.Inject result = 0x0. is64=True, needPipe=True
+hWnd=263126, mouse=2557047, kb=2163555
+Cursor window width,height = 1300,788
+ - thread id=0x8f8, _hWnd=0x263126, window text=Factorio 1.1.39
+ - thread id=0x8f8, _hWnd=0x721854, window text=MSCTFIME UI
+ - thread id=0x8f8, _hWnd=0x852458, window text=Default IME
+ - thread id=0x644, _hWnd=0x655988, window text=GDI+ Window (factorio.exe)
+ - thread id=0x644, _hWnd=0x656344, window text=Default IME
+Starting read pipe USSUazY1auuQJLT8Ci0wlBlDLQ1maj
+Created read pipe USSUazY1auuQJLT8Ci0wlBlDLQ1maj
+Activated hWnd 983908, self = False, Title = 
+InjectorCPP.Inject result = 0x0. is64=True, needPipe=True
+Client connected to (read) pipe USSja3xYBxXOD7fEHsUQ6VOh8seGB2
+Client connected to (read) pipe USSUazY1auuQJLT8Ci0wlBlDLQ1maj
