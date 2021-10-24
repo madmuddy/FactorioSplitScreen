@@ -1,0 +1,13 @@
+C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\bin\Debug\netcoreapp2.0\FactorioSplitScreen.deps.json
+C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\bin\Debug\netcoreapp2.0\FactorioSplitScreen.runtimeconfig.json
+C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\bin\Debug\netcoreapp2.0\FactorioSplitScreen.runtimeconfig.dev.json
+C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\bin\Debug\netcoreapp2.0\FactorioSplitScreen.dll
+C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\bin\Debug\netcoreapp2.0\FactorioSplitScreen.pdb
+C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\obj\Debug\netcoreapp2.0\FactorioSplitScreen.csproj.AssemblyReference.cache
+C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\obj\Debug\netcoreapp2.0\FactorioSplitScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\obj\Debug\netcoreapp2.0\FactorioSplitScreen.AssemblyInfoInputs.cache
+C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\obj\Debug\netcoreapp2.0\FactorioSplitScreen.AssemblyInfo.cs
+C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\obj\Debug\netcoreapp2.0\FactorioSplitScreen.csproj.CoreCompileInputs.cache
+C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\obj\Debug\netcoreapp2.0\FactorioSplitScreen.dll
+C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\obj\Debug\netcoreapp2.0\FactorioSplitScreen.pdb
+C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\obj\Debug\netcoreapp2.0\FactorioSplitScreen.genruntimeconfig.cache

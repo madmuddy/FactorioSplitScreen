@@ -11,4 +11,3 @@ C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\obj\Debug\ne
 C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\obj\Debug\netcoreapp3.1\FactorioSplitScreen.dll
 C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\obj\Debug\netcoreapp3.1\FactorioSplitScreen.pdb
 C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\obj\Debug\netcoreapp3.1\FactorioSplitScreen.genruntimeconfig.cache
-C:\Users\Malik\source\repos\FactorioSplitScreen\FactorioSplitScreen\obj\Debug\netcoreapp3.1\FactorioSplitScreen.csproj.AssemblyReference.cache
